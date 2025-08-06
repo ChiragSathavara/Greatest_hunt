@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealProjects\\GreatestHunt\\Source\\GreatestHunt\\GreatestHunt.Build.cs",
+		"D:\\UnrealProjects\\GreatestHunt\\Source\\GreatestHunt.Target.cs",
+		"D:\\UnrealProjects\\GreatestHunt\\Source\\GreatestHuntEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

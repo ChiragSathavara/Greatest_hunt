@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GreatestHunt.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GreatestHunt.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GreatestHuntEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GreatestHunt">
+      <UniqueIdentifier>{84D8FD68-D64A-3ACA-9281-E91354DF0540}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GreatestHunt\GreatestHunt.Build.cs">
+      <Filter>Source\GreatestHunt</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GreatestHunt\GreatestHunt.cpp">
+      <Filter>Source\GreatestHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GreatestHunt\GreatestHunt.h">
+      <Filter>Source\GreatestHunt</Filter>
+    </ClInclude>
+    <Filter Include="Source\GreatestHunt\Private">
+      <UniqueIdentifier>{9DAFB599-E09F-3C11-B9DC-9DFE3778905C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GreatestHunt\Private\AI">
+      <UniqueIdentifier>{135A5B1B-3105-37DC-B2FE-4E8ADE007D5F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\AI\AINPCAnimInstance.cpp">
+      <Filter>Source\GreatestHunt\Private\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\AI\AINPCCharacter.cpp">
+      <Filter>Source\GreatestHunt\Private\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\AI\AINPCController.cpp">
+      <Filter>Source\GreatestHunt\Private\AI</Filter>
+    </ClCompile>
+    <Filter Include="Source\GreatestHunt\Private\AI\AIWeapons">
+      <UniqueIdentifier>{C367A3CE-63A6-32DF-998F-488EEF25F770}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\AI\AIWeapons\AISwordActor.cpp">
+      <Filter>Source\GreatestHunt\Private\AI\AIWeapons</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\AI\AIWeapons\AIWeaponActor.cpp">
+      <Filter>Source\GreatestHunt\Private\AI\AIWeapons</Filter>
+    </ClCompile>
+    <Filter Include="Source\GreatestHunt\Private\AI\Tasks">
+      <UniqueIdentifier>{4479F186-DFCE-337C-9331-533DD2248631}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\AI\Tasks\BTTask_ChasePlayer.cpp">
+      <Filter>Source\GreatestHunt\Private\AI\Tasks</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\AI\Tasks\BTTask_FindPlayerLocation.cpp">
+      <Filter>Source\GreatestHunt\Private\AI\Tasks</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\AI\Tasks\BTTask_PlayAttackAnim.cpp">
+      <Filter>Source\GreatestHunt\Private\AI\Tasks</Filter>
+    </ClCompile>
+    <Filter Include="Source\GreatestHunt\Private\Animation">
+      <UniqueIdentifier>{EF70FB3A-9ECF-39BC-9315-3E5865604B78}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\Animation\HeroAnimInstance.cpp">
+      <Filter>Source\GreatestHunt\Private\Animation</Filter>
+    </ClCompile>
+    <Filter Include="Source\GreatestHunt\Private\Hero">
+      <UniqueIdentifier>{75A47DF6-72AE-318E-8E7E-3B562CB1623B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\Hero\HeroCharacter.cpp">
+      <Filter>Source\GreatestHunt\Private\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\Hero\HeroController.cpp">
+      <Filter>Source\GreatestHunt\Private\Hero</Filter>
+    </ClCompile>
+    <Filter Include="Source\GreatestHunt\Private\Interactions">
+      <UniqueIdentifier>{D5624C33-9EB2-3B2E-981D-76B50C2C11E8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\Interactions\InteractionComponent.cpp">
+      <Filter>Source\GreatestHunt\Private\Interactions</Filter>
+    </ClCompile>
+    <Filter Include="Source\GreatestHunt\Private\Interfaces">
+      <UniqueIdentifier>{1B476215-D2D9-346E-89F0-8082C0B26BEA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\Interfaces\GameplayInterface.cpp">
+      <Filter>Source\GreatestHunt\Private\Interfaces</Filter>
+    </ClCompile>
+    <Filter Include="Source\GreatestHunt\Private\Inventory">
+      <UniqueIdentifier>{41E00687-04D4-3B9B-98BA-885C821DFA2A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\Inventory\InventoryComponent.cpp">
+      <Filter>Source\GreatestHunt\Private\Inventory</Filter>
+    </ClCompile>
+    <Filter Include="Source\GreatestHunt\Private\Items">
+      <UniqueIdentifier>{EFE730A3-45F7-32D3-BD9E-3A16DEB6B364}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\Items\FoodItem.cpp">
+      <Filter>Source\GreatestHunt\Private\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\Items\ItemBase.cpp">
+      <Filter>Source\GreatestHunt\Private\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\Items\SwordBase.cpp">
+      <Filter>Source\GreatestHunt\Private\Items</Filter>
+    </ClCompile>
+    <Filter Include="Source\GreatestHunt\Private\LockOn">
+      <UniqueIdentifier>{824474A5-56CE-3EC4-99DF-0818FC0DC262}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\LockOn\LockonComponent.cpp">
+      <Filter>Source\GreatestHunt\Private\LockOn</Filter>
+    </ClCompile>
+    <Filter Include="Source\GreatestHunt\Private\Pickup">
+      <UniqueIdentifier>{1882B5BD-A1FF-326A-A7F8-780482F06F03}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\Pickup\PickUpActor.cpp">
+      <Filter>Source\GreatestHunt\Private\Pickup</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GreatestHunt\Private\Pickup\SwordActor.cpp">
+      <Filter>Source\GreatestHunt\Private\Pickup</Filter>
+    </ClCompile>
+    <Filter Include="Source\GreatestHunt\Public">
+      <UniqueIdentifier>{C8C9AB2B-9921-3EFD-81FA-8F2B54A72233}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GreatestHunt\Public\AI">
+      <UniqueIdentifier>{659FFB2A-D55E-30CC-AB33-90EC59C405A0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\AI\AINPCAnimInstance.h">
+      <Filter>Source\GreatestHunt\Public\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\AI\AINPCCharacter.h">
+      <Filter>Source\GreatestHunt\Public\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\AI\AINPCController.h">
+      <Filter>Source\GreatestHunt\Public\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\GreatestHunt\Public\AI\AIWeapons">
+      <UniqueIdentifier>{53F0F4E1-48D2-35BE-B919-6866C1D00C19}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\AI\AIWeapons\AISwordActor.h">
+      <Filter>Source\GreatestHunt\Public\AI\AIWeapons</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\AI\AIWeapons\AIWeaponActor.h">
+      <Filter>Source\GreatestHunt\Public\AI\AIWeapons</Filter>
+    </ClInclude>
+    <Filter Include="Source\GreatestHunt\Public\AI\Tasks">
+      <UniqueIdentifier>{C81F9852-55FE-308B-A74B-1946C793072D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\AI\Tasks\BTTask_ChasePlayer.h">
+      <Filter>Source\GreatestHunt\Public\AI\Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\AI\Tasks\BTTask_FindPlayerLocation.h">
+      <Filter>Source\GreatestHunt\Public\AI\Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\AI\Tasks\BTTask_PlayAttackAnim.h">
+      <Filter>Source\GreatestHunt\Public\AI\Tasks</Filter>
+    </ClInclude>
+    <Filter Include="Source\GreatestHunt\Public\Animation">
+      <UniqueIdentifier>{889E1B02-E469-3ACC-958C-E6DFEF4023C6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\Animation\HeroAnimInstance.h">
+      <Filter>Source\GreatestHunt\Public\Animation</Filter>
+    </ClInclude>
+    <Filter Include="Source\GreatestHunt\Public\Data">
+      <UniqueIdentifier>{15631FB2-FB3C-3465-89E6-2C30C9273A0E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\Data\ActorStructDataType.h">
+      <Filter>Source\GreatestHunt\Public\Data</Filter>
+    </ClInclude>
+    <Filter Include="Source\GreatestHunt\Public\Hero">
+      <UniqueIdentifier>{89D9A7DF-27F8-3EB7-BA49-215164DAA8DD}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\Hero\HeroCharacter.h">
+      <Filter>Source\GreatestHunt\Public\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\Hero\HeroController.h">
+      <Filter>Source\GreatestHunt\Public\Hero</Filter>
+    </ClInclude>
+    <Filter Include="Source\GreatestHunt\Public\Interactions">
+      <UniqueIdentifier>{31B91AC2-68EC-384B-B056-EB2342816362}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\Interactions\InteractionComponent.h">
+      <Filter>Source\GreatestHunt\Public\Interactions</Filter>
+    </ClInclude>
+    <Filter Include="Source\GreatestHunt\Public\Interfaces">
+      <UniqueIdentifier>{F682F631-DCB3-38AD-BFB8-05BBDB535DC2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\Interfaces\GameplayInterface.h">
+      <Filter>Source\GreatestHunt\Public\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\GreatestHunt\Public\Inventory">
+      <UniqueIdentifier>{6805B1D9-CE7A-3E48-BB3D-3268C9EC8E2F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\Inventory\InventoryComponent.h">
+      <Filter>Source\GreatestHunt\Public\Inventory</Filter>
+    </ClInclude>
+    <Filter Include="Source\GreatestHunt\Public\Items">
+      <UniqueIdentifier>{15D3158D-159B-3EFE-B406-05AF74ECEF86}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\Items\FoodItem.h">
+      <Filter>Source\GreatestHunt\Public\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\Items\ItemBase.h">
+      <Filter>Source\GreatestHunt\Public\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\Items\SwordBase.h">
+      <Filter>Source\GreatestHunt\Public\Items</Filter>
+    </ClInclude>
+    <Filter Include="Source\GreatestHunt\Public\LockOn">
+      <UniqueIdentifier>{949183B7-EEED-3943-9572-B90E747EC79A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\LockOn\LockonComponent.h">
+      <Filter>Source\GreatestHunt\Public\LockOn</Filter>
+    </ClInclude>
+    <Filter Include="Source\GreatestHunt\Public\Pickup">
+      <UniqueIdentifier>{358C1878-8996-348E-8D8A-B67D50B24787}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\Pickup\PickUpActor.h">
+      <Filter>Source\GreatestHunt\Public\Pickup</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\GreatestHunt\Public\Pickup\SwordActor.h">
+      <Filter>Source\GreatestHunt\Public\Pickup</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

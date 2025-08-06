@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GreatestHunt",
+			"Path": "..\\Source\\GreatestHunt.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GreatestHuntEditor",
+			"Path": "..\\Source\\GreatestHuntEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

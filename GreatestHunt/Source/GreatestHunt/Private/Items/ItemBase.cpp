@@ -1,0 +1,15 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+
+#include "Items/ItemBase.h"
+//#include "Hero/HeroCharacter.h"
+
+UItemBase::UItemBase()
+{
+	
+}
+
+void UItemBase::Use(AHeroCharacter* Hero)
+{
+	
+}

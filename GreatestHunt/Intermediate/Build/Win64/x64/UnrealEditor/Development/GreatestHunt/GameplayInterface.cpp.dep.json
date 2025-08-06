@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\greatesthunt\\source\\greatesthunt\\private\\interfaces\\gameplayinterface.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\greatesthunt\\intermediate\\build\\win64\\x64\\greatesthunteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\greatesthunt\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\greatesthunt\\definitions.greatesthunt.h",
+            "d:\\unrealprojects\\greatesthunt\\source\\greatesthunt\\public\\interfaces\\gameplayinterface.h",
+            "d:\\unrealprojects\\greatesthunt\\intermediate\\build\\win64\\unrealeditor\\inc\\greatesthunt\\uht\\gameplayinterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

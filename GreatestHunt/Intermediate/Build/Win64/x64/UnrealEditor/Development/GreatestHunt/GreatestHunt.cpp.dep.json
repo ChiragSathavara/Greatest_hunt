@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\greatesthunt\\source\\greatesthunt\\greatesthunt.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\greatesthunt\\intermediate\\build\\win64\\x64\\greatesthunteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\greatesthunt\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\greatesthunt\\definitions.greatesthunt.h",
+            "d:\\unrealprojects\\greatesthunt\\source\\greatesthunt\\greatesthunt.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

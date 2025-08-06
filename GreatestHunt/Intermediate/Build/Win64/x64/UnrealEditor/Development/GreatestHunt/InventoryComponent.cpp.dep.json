@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\greatesthunt\\source\\greatesthunt\\private\\inventory\\inventorycomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\greatesthunt\\intermediate\\build\\win64\\x64\\greatesthunteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\greatesthunt\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\greatesthunt\\definitions.greatesthunt.h",
+            "d:\\unrealprojects\\greatesthunt\\source\\greatesthunt\\public\\inventory\\inventorycomponent.h",
+            "d:\\unrealprojects\\greatesthunt\\intermediate\\build\\win64\\unrealeditor\\inc\\greatesthunt\\uht\\inventorycomponent.generated.h",
+            "d:\\unrealprojects\\greatesthunt\\source\\greatesthunt\\public\\items\\itembase.h",
+            "d:\\unrealprojects\\greatesthunt\\intermediate\\build\\win64\\unrealeditor\\inc\\greatesthunt\\uht\\itembase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
